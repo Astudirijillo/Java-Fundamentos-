@@ -25,7 +25,7 @@ public class Cajero_automatico {
         System.out.println("===============  Cajero Automatico ===============");
         System.out.println("Bienvenido que desea hacer");
         do {
-            System.out.println("1.- Saldo Disponible ");
+            System.out.println("1.- Saldo Disponible");
             System.out.println("2.- Depositos de dinero");
             System.out.println("3.- Giros de dinero");
             eleccion = intro.nextInt();
